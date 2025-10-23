@@ -1,356 +1,356 @@
-# 🏦 Sure Financial — AI Credit Card Statement Extractor# 🏦 Sure Financial — AI Credit Card Statement Extractor
+# 🏦 Sure Financial — AI Credit Card Statement Extractor# 🏦 Sure Financial — AI Credit Card Statement Extractor# 🏦 Sure Financial — AI Credit Card Statement Extractor
 
 
 
-> **Intelligent full-stack system** for parsing PDF credit card statements from 6 major Indian banks with AI-powered extraction and beautiful modern UI.> **Intelligent full-stack system** for parsing PDF credit card statements from 6 major Indian banks with AI-powered extraction and beautiful modern UI.
+> **Intelligent full-stack system** for parsing PDF credit card statements from 6 major Indian banks with AI-powered extraction and beautiful modern UI.
 
 
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)> **Intelligent full-stack system** for parsing PDF credit card statements from 6 major Indian banks with AI-powered extraction and beautiful modern UI.> **Intelligent full-stack system** for parsing PDF credit card statements from 6 major Indian banks with AI-powered extraction and beautiful modern UI.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
----![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 
 
-## 🚀 Live Demo
+---![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
 
 
-- **Frontend**: [Deployed on Vercel](https://your-app.vercel.app) *(Add your URL)*---## ✨ Features
+## 🚀 Live Demo![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+
+
+- **Frontend**: https://sure-financials.vercel.app/![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
 - **Backend API**: https://sure-financials-backend.onrender.com
 
-- **API Documentation**: https://sure-financials-backend.onrender.com/docs
+- **API Documentation**: https://sure-financials-backend.onrender.com/docs![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 
 
----## 🎯 Features- 🏦 **5 Banks Supported**: HDFC, ICICI, IDBI, SBI Card, Kotak Mahindra
+---![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 
 
-## ✨ Features- 🤖 **AI-Powered**: Intelligent field extraction with confidence scoring
+## ✨ Features---![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
 
 
-- 🏦 **6 Banks Supported**: HDFC, ICICI, IDBI, SBI Card, Kotak Mahindra, Axis Bank- ✅ **Multi-Bank Support**: HDFC, ICICI, IDBI, SBI, Kotak Mahindra- 📄 **OCR Ready**: Handles both digital and scanned PDFs
+- 🏦 **6 Banks Supported**: HDFC, ICICI, IDBI, SBI Card, Kotak Mahindra, Axis Bank
 
 - 🤖 **AI-Powered Extraction**: Intelligent field detection with confidence scoring
 
-- 📄 **OCR Ready**: Handles both digital and scanned PDFs (Tesseract)- ✅ **Smart Extraction**: Card number, billing cycle, due date, total amount due- 🎨 **Modern UI**: Beautiful gradient design with Tailwind CSS
+- 📄 **OCR Ready**: Handles both digital and scanned PDFs (Tesseract)## 🚀 Live Demo
 
 - 🎨 **Modern UI**: Beautiful gradient design with Tailwind CSS
 
-- 📊 **Multiple Formats**: JSON API + Excel downloads- ✅ **OCR Support**: Fallback for scanned PDFs (Tesseract)- 📊 **Multiple Formats**: JSON API + Excel downloads
+- 📊 **Multiple Formats**: JSON API + Excel downloads
 
 - ⚡ **Lightning Fast**: Process statements in seconds
 
-- 🔄 **Universal Parser**: Fallback for any bank statement- ✅ **Confidence Scoring**: AI-powered accuracy metrics- 🗄️ **Cloud Storage**: Optional Supabase integration
+- 🔄 **Universal Parser**: Fallback for any bank statement- **Frontend**: [Deployed on Vercel](https://your-app.vercel.app) *(Add your URL)*---## ✨ Features
 
 - 🎯 **95-100% Accuracy**: Tested on real bank statements
 
-- ✅ **Excel Export**: Download results as XLSX- ⚡ **Lightning Fast**: Process statements in seconds
+- **Backend API**: https://sure-financials-backend.onrender.com
 
 ---
 
-- ✅ **Batch Upload**: Process multiple PDFs or ZIP files
+- **API Documentation**: https://sure-financials-backend.onrender.com/docs
 
 ## 🏗️ Architecture
 
-- ✅ **Modern UI**: Responsive design with drag-and-drop## 🚀 Quick Start
+
 
 ```
 
-sure_financial/- ✅ **JSON/Table Toggle**: View data in multiple formats
+sure_financial/---## 🎯 Features- 🏦 **5 Banks Supported**: HDFC, ICICI, IDBI, SBI Card, Kotak Mahindra
 
 ├── backend/                    # FastAPI REST API
 
-│   ├── main.py                # API endpoints (/upload, /extract)**Prerequisites**: Python 3.10+, Node.js 18+
+│   ├── main.py                # API endpoints (/upload, /extract)
 
 │   ├── universal_parser.py    # Bank detection & routing
 
-│   ├── parsers/               # Bank-specific extractors---
+│   ├── parsers/               # Bank-specific extractors## ✨ Features- 🤖 **AI-Powered**: Intelligent field extraction with confidence scoring
 
 │   │   ├── hdfc_parser.py     # HDFC Bank parser
 
-│   │   ├── icici_parser.py    # ICICI Bank parser### Backend
+│   │   ├── icici_parser.py    # ICICI Bank parser
 
 │   │   ├── idbi_parser.py     # IDBI Bank parser
 
-│   │   ├── sbi_parser.py      # SBI Card parser## 🏗️ Architecture```powershell
+│   │   ├── sbi_parser.py      # SBI Card parser- 🏦 **6 Banks Supported**: HDFC, ICICI, IDBI, SBI Card, Kotak Mahindra, Axis Bank- ✅ **Multi-Bank Support**: HDFC, ICICI, IDBI, SBI, Kotak Mahindra- 📄 **OCR Ready**: Handles both digital and scanned PDFs
 
 │   │   ├── kotak_parser.py    # Kotak Mahindra parser
 
-│   │   └── axis_parser.py     # Axis Bank parsercd backend
+│   │   └── axis_parser.py     # Axis Bank parser- 🤖 **AI-Powered Extraction**: Intelligent field detection with confidence scoring
 
 │   ├── utils/                 # Helper utilities
 
-│   │   ├── pdf_utils.py       # 3-tier PDF extraction (pdfplumber → PyMuPDF → PyPDF2)```.\setup_env.ps1
+│   │   ├── pdf_utils.py       # 3-tier PDF extraction- 📄 **OCR Ready**: Handles both digital and scanned PDFs (Tesseract)- ✅ **Smart Extraction**: Card number, billing cycle, due date, total amount due- 🎨 **Modern UI**: Beautiful gradient design with Tailwind CSS
 
 │   │   ├── ocr_utils.py       # Tesseract OCR wrapper
 
-│   │   └── data_formatter.py  # Amount/date cleaning (14 formats)sure_financial/. .\.venv\Scripts\Activate.ps1
+│   │   └── data_formatter.py  # Amount/date cleaning- 🎨 **Modern UI**: Beautiful gradient design with Tailwind CSS
 
 │   └── requirements.txt       # Python dependencies
 
-│├── backend/              # FastAPI REST APIpython -m uvicorn main:app --reload
+│- 📊 **Multiple Formats**: JSON API + Excel downloads- ✅ **OCR Support**: Fallback for scanned PDFs (Tesseract)- 📊 **Multiple Formats**: JSON API + Excel downloads
 
 └── frontend/                  # Next.js UI
 
-    ├── pages/│   ├── main.py          # API endpoints```
+    ├── pages/- ⚡ **Lightning Fast**: Process statements in seconds
 
-    │   ├── index.js           # Landing page with features
+    │   ├── index.js           # Landing page
 
-    │   └── upload.js          # Upload interface with results│   ├── universal_parser.py  # Bank detection & parsing
+    │   └── upload.js          # Upload interface- 🔄 **Universal Parser**: Fallback for any bank statement- ✅ **Confidence Scoring**: AI-powered accuracy metrics- 🗄️ **Cloud Storage**: Optional Supabase integration
 
     ├── components/            # React components
 
-    │   ├── FileUploader.jsx   # Drag-and-drop uploader│   ├── parsers/         # Bank-specific parsersBackend runs at: http://localhost:8000
+    │   ├── FileUploader.jsx   # Drag-and-drop uploader- 🎯 **95-100% Accuracy**: Tested on real bank statements
 
-    │   ├── DataTable.jsx      # Table view with confidence bars
+    │   ├── DataTable.jsx      # Table view
 
-    │   ├── JsonViewer.jsx     # JSON viewer with copy│   │   ├── hdfc_parser.py
+    │   ├── JsonViewer.jsx     # JSON viewer- ✅ **Excel Export**: Download results as XLSX- ⚡ **Lightning Fast**: Process statements in seconds
 
     │   └── Loader.jsx         # Loading animation
 
-    └── package.json           # Node dependencies│   │   ├── icici_parser.py### Frontend
+    └── package.json           # Node dependencies---
 
 ```
 
-│   │   ├── idbi_parser.py```powershell
+- ✅ **Batch Upload**: Process multiple PDFs or ZIP files
 
 ---
 
-│   │   ├── sbi_parser.pycd frontend
+## 🏗️ Architecture
 
 ## 🚀 Quick Start (Local Development)
 
-│   │   └── kotak_parser.pynpm install
+- ✅ **Modern UI**: Responsive design with drag-and-drop## 🚀 Quick Start
 
 ### Prerequisites
 
-- **Python 3.10+**│   └── utils/           # Helper utilitiesnpm run dev
+- **Python 3.10+**```
 
 - **Node.js 18+**
 
-- **Tesseract OCR** (Optional, for scanned PDFs)│       ├── pdf_utils.py```
+- **Tesseract OCR** (Optional, for scanned PDFs)sure_financial/- ✅ **JSON/Table Toggle**: View data in multiple formats
 
 
 
-### 1. Clone Repository│       ├── ocr_utils.py
+### 1. Clone Repository├── backend/                    # FastAPI REST API
 
 
 
-```bash│       └── data_formatter.pyFrontend runs at: http://localhost:3000
+```bash│   ├── main.py                # API endpoints (/upload, /extract)**Prerequisites**: Python 3.10+, Node.js 18+
 
 git clone https://github.com/Shobit04/sure_financial.git
 
-cd sure_financial│
+cd sure_financial│   ├── universal_parser.py    # Bank detection & routing
 
 ```
 
-└── frontend/            # Next.js UI## 📖 Documentation
+│   ├── parsers/               # Bank-specific extractors---
 
 ### 2. Backend Setup
 
-    ├── pages/
+│   │   ├── hdfc_parser.py     # HDFC Bank parser
 
 ```powershell
 
-# Navigate to backend    │   ├── index.js     # Landing page- **[Complete Setup Guide](SETUP_GUIDE.md)** - Step-by-step installation
+# Navigate to backend│   │   ├── icici_parser.py    # ICICI Bank parser### Backend
 
 cd backend
 
-    │   └── upload.js    # Upload interface- **[Backend README](backend/README.md)** - API documentation
+│   │   ├── idbi_parser.py     # IDBI Bank parser
 
 # Create virtual environment
 
-python -m venv .venv    └── components/- **[Frontend README](frontend/README.md)** - UI customization
+python -m venv .venv│   │   ├── sbi_parser.py      # SBI Card parser## 🏗️ Architecture```powershell
 
 
 
-# Activate virtual environment        ├── FileUploader.jsx
+# Activate virtual environment│   │   ├── kotak_parser.py    # Kotak Mahindra parser
 
 .\.venv\Scripts\Activate.ps1
 
-        ├── DataTable.jsx## 📁 Project Structure
+│   │   └── axis_parser.py     # Axis Bank parsercd backend
 
 # Install dependencies
 
-pip install -r requirements.txt        ├── JsonViewer.jsx
+pip install -r requirements.txt│   ├── utils/                 # Helper utilities
 
 
 
-# (Optional) Configure OCR - create .env file        └── Loader.jsx```
+# (Optional) Configure OCR - create .env file│   │   ├── pdf_utils.py       # 3-tier PDF extraction (pdfplumber → PyMuPDF → PyPDF2)```.\setup_env.ps1
 
 # TESSERACT_CMD=C:\Program Files\Tesseract-OCR\tesseract.exe
 
-```sure_financial/
+│   │   ├── ocr_utils.py       # Tesseract OCR wrapper
 
 # Run backend
 
-python -m uvicorn main:app --reload --host 0.0.0.0 --port 8000├── backend/              # FastAPI Python backend
+python -m uvicorn main:app --reload --host 0.0.0.0 --port 8000│   │   └── data_formatter.py  # Amount/date cleaning (14 formats)sure_financial/. .\.venv\Scripts\Activate.ps1
 
 ```
 
----│   ├── main.py          # API endpoints
+│   └── requirements.txt       # Python dependencies
 
 **Backend runs at**: http://localhost:8000  
 
-**API Docs**: http://localhost:8000/docs│   ├── universal_parser.py
+**API Docs**: http://localhost:8000/docs│├── backend/              # FastAPI REST APIpython -m uvicorn main:app --reload
 
 
 
-### 3. Frontend Setup## 🚀 Quick Start│   ├── parsers/         # Bank-specific extractors
+### 3. Frontend Setup└── frontend/                  # Next.js UI
 
 
 
-```powershell│   ├── utils/           # PDF, OCR, Supabase utilities
+```powershell    ├── pages/│   ├── main.py          # API endpoints```
 
 # Open new terminal, navigate to frontend
 
-cd frontend### Prerequisites│   └── requirements.txt
+cd frontend    │   ├── index.js           # Landing page with features
 
 
 
-# Install dependencies│
+# Install dependencies    │   └── upload.js          # Upload interface with results│   ├── universal_parser.py  # Bank detection & parsing
 
 npm install
 
-- **Python 3.10+** - [Download](https://www.python.org/downloads/)└── frontend/            # Next.js + Tailwind UI
+    ├── components/            # React components
 
 # Create .env.local for local development
 
-# NEXT_PUBLIC_API_URL=http://localhost:8000- **Node.js 18+** - [Download](https://nodejs.org/)    ├── pages/           # Route pages
+# NEXT_PUBLIC_API_URL=http://localhost:8000    │   ├── FileUploader.jsx   # Drag-and-drop uploader│   ├── parsers/         # Bank-specific parsersBackend runs at: http://localhost:8000
 
 
 
-# Run frontend- **Tesseract OCR** (Optional) - [Download](https://github.com/UB-Mannheim/tesseract/wiki)    ├── components/      # React components
+# Run frontend    │   ├── DataTable.jsx      # Table view with confidence bars
 
 npm run dev
 
-```    └── styles/          # Tailwind CSS
+```    │   ├── JsonViewer.jsx     # JSON viewer with copy│   │   ├── hdfc_parser.py
 
 
 
-**Frontend runs at**: http://localhost:3000### 1. Clone Repository```
+**Frontend runs at**: http://localhost:3000    │   └── Loader.jsx         # Loading animation
 
 
 
----
+---    └── package.json           # Node dependencies│   │   ├── icici_parser.py### Frontend
 
 
 
-## 🏦 Supported Banks```bash## 🎯 What It Extracts
+## 🏦 Supported Banks```
 
 
 
-| Bank | Card Type | Detection Keywords | Test Results | Confidence |git clone <your-repo-url>
+| Bank | Card Type | Detection Keywords | Test Results | Confidence |│   │   ├── idbi_parser.py```powershell
 
 |------|-----------|-------------------|--------------|------------|
 
-| **HDFC Bank** | Credit | "HDFC", "HDFC Bank" | ✅ 100% on real statements | 95-100% |cd sure_financialFrom any supported bank statement:
+| **HDFC Bank** | Credit | "HDFC", "HDFC Bank" | ✅ 100% on real statements | 95-100% |---
 
 | **ICICI Bank** | Credit | "ICICI", "ICICI Bank" | ✅ Tested | 90-100% |
 
-| **IDBI Bank** | Credit | "IDBI", "Industrial Development Bank" | ✅ Tested | 85-100% |```
+| **IDBI Bank** | Credit | "IDBI", "Industrial Development Bank" | ✅ Tested | 85-100% |│   │   ├── sbi_parser.pycd frontend
 
 | **SBI Card** | Credit | "State Bank", "SBI Card" | ✅ Tested | 90-100% |
 
-| **Kotak Mahindra** | Credit | "Kotak", "Kotak Mahindra" | ✅ Tested | 90-100% |1. ✅ **Bank Name** / Card Provider
+| **Kotak Mahindra** | Credit | "Kotak", "Kotak Mahindra" | ✅ Tested | 90-100% |## 🚀 Quick Start (Local Development)
 
 | **Axis Bank** | Credit | "Axis Bank", "Axis" | ✅ 100% on real statements | 95-100% |
 
-### 2. Setup Backend2. ✅ **Card Last 4 Digits**
+│   │   └── kotak_parser.pynpm install
 
 ---
 
-3. ✅ **Billing Cycle** Period
+### Prerequisites
 
 ## 📊 Extracted Fields
 
-```powershell4. ✅ **Payment Due Date**
+- **Python 3.10+**│   └── utils/           # Helper utilitiesnpm run dev
 
 From any supported bank statement:
 
-# Navigate to backend5. ✅ **Total Outstanding Amount**
+- **Node.js 18+**
 
 1. ✅ **Bank Name** - Auto-detected from PDF content
 
-2. ✅ **Card Last 4 Digits** - e.g., "5692"cd backend
+2. ✅ **Card Last 4 Digits** - e.g., "5692"- **Tesseract OCR** (Optional, for scanned PDFs)│       ├── pdf_utils.py```
 
 3. ✅ **Billing Cycle** - e.g., "14 Aug 2025 - 12 Sep 2025"
 
-4. ✅ **Payment Due Date** - e.g., "2025-10-03"Plus: Confidence score, AI summary, and validation notes.
+4. ✅ **Payment Due Date** - e.g., "2025-10-03"
 
 5. ✅ **Total Amount Due** - e.g., "₹11,532.82"
 
-# Create virtual environment
+### 1. Clone Repository│       ├── ocr_utils.py
 
 **Plus**: Confidence score (0-1.0), AI-generated summary, and validation notes
 
-python -m venv .venv## 🛠️ Tech Stack
+
 
 ---
 
-
+```bash│       └── data_formatter.pyFrontend runs at: http://localhost:3000
 
 ## 📋 API Endpoints
 
-# Activate virtual environment**Backend**
+git clone https://github.com/Shobit04/sure_financial.git
 
 ### `POST /extract`
 
-Extract data from a single PDF statement..\.venv\Scripts\Activate.ps1- FastAPI - Modern Python web framework
+Extract data from a single PDF statement.cd sure_financial│
 
 
 
-**Request:**- PyMuPDF, pdfplumber - PDF parsing
+**Request:**```
 
 ```bash
 
-curl -X POST https://sure-financials-backend.onrender.com/extract \# Install dependencies- Pytesseract - OCR for scanned PDFs
+curl -X POST https://sure-financials-backend.onrender.com/extract \└── frontend/            # Next.js UI## 📖 Documentation
 
   -F "file=@statement.pdf"
 
-```pip install -r requirements.txt- Pandas - Data processing
+```### 2. Backend Setup
 
 
 
-**Response:**- Supabase - Cloud storage (optional)
+**Response:**    ├── pages/
 
 ```json
 
-{# Configure environment (optional for OCR)
+{```powershell
 
   "bank": "HDFC Bank",
 
-  "card_last_4": "5692",copy .env.example .env**Frontend**
+  "card_last_4": "5692",# Navigate to backend    │   ├── index.js     # Landing page- **[Complete Setup Guide](SETUP_GUIDE.md)** - Step-by-step installation
 
   "billing_cycle": "09 Sep 2025 - 09 Oct 2025",
 
-  "payment_due_date": "2025-10-27",# Edit .env and set TESSERACT_CMD path if using OCR- Next.js 14 - React framework
+  "payment_due_date": "2025-10-27",cd backend
 
   "total_due": "₹61.00",
 
-  "confidence": 1.0,```- Tailwind CSS - Utility-first styling
+  "confidence": 1.0,    │   └── upload.js    # Upload interface- **[Backend README](backend/README.md)** - API documentation
 
   "summary": "Your HDFC Bank credit card statement shows a total due of ₹61.00..."
 
-}- Axios - HTTP client
+}# Create virtual environment
 
 ```
 
-### 3. Setup Frontend- Modern responsive design
+python -m venv .venv    └── components/- **[Frontend README](frontend/README.md)** - UI customization
 
 **Excel Export:**
 
@@ -358,159 +358,672 @@ curl -X POST https://sure-financials-backend.onrender.com/extract \# Install dep
 
 curl -X POST https://sure-financials-backend.onrender.com/extract \
 
-  -F "file=@statement.pdf" \```powershell## 📸 Screenshots
+  -F "file=@statement.pdf" \# Activate virtual environment        ├── FileUploader.jsx
 
   -F "as_excel=true" \
 
-  -o extraction.xlsx# Navigate to frontend
+  -o extraction.xlsx.\.venv\Scripts\Activate.ps1
 
 ```
 
-cd ..\frontend- **Landing Page**: Gradient hero with feature cards
+        ├── DataTable.jsx## 📁 Project Structure
 
 ### `POST /upload`
 
-Upload multiple PDFs (supports ZIP files).- **Upload Page**: Drag-and-drop with live preview
+Upload multiple PDFs (supports ZIP files).# Install dependencies
 
 
 
-**Request:**# Install dependencies- **Results View**: JSON/Table toggle with confidence meter
+**Request:**pip install -r requirements.txt        ├── JsonViewer.jsx
 
 ```bash
 
-curl -X POST https://sure-financials-backend.onrender.com/upload \npm install- **Responsive**: Works on all devices
+curl -X POST https://sure-financials-backend.onrender.com/upload \
 
   -F "file=@statements.zip"
+
+```# (Optional) Configure OCR - create .env file        └── Loader.jsx```
+
+
+
+**Response:**# TESSERACT_CMD=C:\Program Files\Tesseract-OCR\tesseract.exe
+
+```json
+
+{```sure_financial/
+
+  "job_id": "job_1729689600",
+
+  "files": ["hdfc_statement.pdf", "axis_statement.pdf"]# Run backend
+
+}
+
+```python -m uvicorn main:app --reload --host 0.0.0.0 --port 8000├── backend/              # FastAPI Python backend
+
+
+
+---```
+
+
+
+## 🎨 Frontend Features---│   ├── main.py          # API endpoints
+
+
+
+### Landing Page (`/`)**Backend runs at**: http://localhost:8000  
+
+- Overview of features and supported banks
+
+- Gradient hero section with call-to-action**API Docs**: http://localhost:8000/docs│   ├── universal_parser.py
+
+- Feature cards with icons
+
+- Responsive design
+
+
+
+### Upload Page (`/upload`)### 3. Frontend Setup## 🚀 Quick Start│   ├── parsers/         # Bank-specific extractors
+
+- **Drag & Drop**: Easy file upload with visual feedback
+
+- **JSON Viewer**: Copy extracted data to clipboard
+
+- **Table View**: Formatted display with confidence bars
+
+- **Excel Download**: Export results instantly```powershell│   ├── utils/           # PDF, OCR, Supabase utilities
+
+- **Real-time Processing**: Live progress indicators
+
+- **Error Handling**: Clear error messages with suggestions# Open new terminal, navigate to frontend
+
+
+
+---cd frontend### Prerequisites│   └── requirements.txt
+
+
+
+## 🔧 Configuration
+
+
+
+### Backend Environment Variables# Install dependencies│
+
+
+
+Optional - create `backend/.env`:npm install
+
+
+
+```bash- **Python 3.10+** - [Download](https://www.python.org/downloads/)└── frontend/            # Next.js + Tailwind UI
+
+# Tesseract OCR path (optional, for scanned PDFs)
+
+TESSERACT_CMD=C:\Program Files\Tesseract-OCR\tesseract.exe# Create .env.local for local development
+
+```
+
+# NEXT_PUBLIC_API_URL=http://localhost:8000- **Node.js 18+** - [Download](https://nodejs.org/)    ├── pages/           # Route pages
+
+### Frontend Environment Variables
+
+
+
+**Local Development** (`frontend/.env.local`):
+
+```bash# Run frontend- **Tesseract OCR** (Optional) - [Download](https://github.com/UB-Mannheim/tesseract/wiki)    ├── components/      # React components
+
+NEXT_PUBLIC_API_URL=http://localhost:8000
+
+```npm run dev
+
+
+
+**Production** (Set in Vercel):```    └── styles/          # Tailwind CSS
+
+```bash
+
+NEXT_PUBLIC_API_URL=https://sure-financials-backend.onrender.com
+
+```
+
+**Frontend runs at**: http://localhost:3000### 1. Clone Repository```
+
+---
+
+
+
+## 🚢 Deployment
+
+---
+
+### Backend (Render)
+
+
+
+1. Go to [Render Dashboard](https://dashboard.render.com/)
+
+2. New → Web Service → Connect GitHub repo## 🏦 Supported Banks```bash## 🎯 What It Extracts
+
+3. Configure:
+
+   - **Root Directory**: `backend`
+
+   - **Build Command**: `pip install -r requirements.txt`
+
+   - **Start Command**: `uvicorn main:app --host 0.0.0.0 --port $PORT`| Bank | Card Type | Detection Keywords | Test Results | Confidence |git clone <your-repo-url>
+
+4. Deploy
+
+|------|-----------|-------------------|--------------|------------|
+
+### Frontend (Vercel)
+
+| **HDFC Bank** | Credit | "HDFC", "HDFC Bank" | ✅ 100% on real statements | 95-100% |cd sure_financialFrom any supported bank statement:
+
+1. Go to [Vercel Dashboard](https://vercel.com/dashboard)
+
+2. New Project → Import GitHub repo| **ICICI Bank** | Credit | "ICICI", "ICICI Bank" | ✅ Tested | 90-100% |
+
+3. Configure:
+
+   - **Root Directory**: `frontend`| **IDBI Bank** | Credit | "IDBI", "Industrial Development Bank" | ✅ Tested | 85-100% |```
+
+   - **Framework**: Next.js (auto-detected)
+
+4. Add Environment Variable:| **SBI Card** | Credit | "State Bank", "SBI Card" | ✅ Tested | 90-100% |
+
+   - `NEXT_PUBLIC_API_URL` = `https://sure-financials-backend.onrender.com`
+
+5. Deploy| **Kotak Mahindra** | Credit | "Kotak", "Kotak Mahindra" | ✅ Tested | 90-100% |1. ✅ **Bank Name** / Card Provider
+
+
+
+**Auto-Deploy**: Both platforms automatically redeploy when you push to GitHub!| **Axis Bank** | Credit | "Axis Bank", "Axis" | ✅ 100% on real statements | 95-100% |
+
+
+
+For detailed deployment instructions, see [DEPLOYMENT.md](DEPLOYMENT.md).### 2. Setup Backend2. ✅ **Card Last 4 Digits**
+
+
+
+------
+
+
+
+## 🧪 Testing3. ✅ **Billing Cycle** Period
+
+
+
+### Test Backend API## 📊 Extracted Fields
+
+
+
+```powershell```powershell4. ✅ **Payment Due Date**
+
+# Check API health
+
+curl https://sure-financials-backend.onrender.com/docsFrom any supported bank statement:
+
+
+
+# Test extraction with sample PDF# Navigate to backend5. ✅ **Total Outstanding Amount**
+
+curl -X POST https://sure-financials-backend.onrender.com/extract \
+
+  -F "file=@sample_statement.pdf"1. ✅ **Bank Name** - Auto-detected from PDF content
+
+```
+
+2. ✅ **Card Last 4 Digits** - e.g., "5692"cd backend
+
+### Test Frontend
+
+3. ✅ **Billing Cycle** - e.g., "14 Aug 2025 - 12 Sep 2025"
+
+1. Open https://sure-financials.vercel.app/ in browser
+
+2. Navigate to Upload page4. ✅ **Payment Due Date** - e.g., "2025-10-03"Plus: Confidence score, AI summary, and validation notes.
+
+3. Drag & drop a PDF statement
+
+4. Verify extraction results display correctly5. ✅ **Total Amount Due** - e.g., "₹11,532.82"
+
+
+
+---# Create virtual environment
+
+
+
+## 🛠️ Tech Stack**Plus**: Confidence score (0-1.0), AI-generated summary, and validation notes
+
+
+
+### Backendpython -m venv .venv## 🛠️ Tech Stack
+
+- **FastAPI 0.95.2** - Modern Python web framework
+
+- **pdfplumber 0.7.6** - Primary PDF text extraction---
+
+- **PyMuPDF 1.22.5** - Secondary PDF extraction
+
+- **PyPDF2 3.0.1** - Fallback PDF extraction
+
+- **pytesseract 0.3.10** - OCR for scanned PDFs
+
+- **pandas 2.2.3** - Data manipulation## 📋 API Endpoints
+
+- **openpyxl 3.1.2** - Excel export
+
+# Activate virtual environment**Backend**
+
+### Frontend
+
+- **Next.js 14.0.0** - React framework with SSR### `POST /extract`
+
+- **Tailwind CSS** - Utility-first styling
+
+- **Axios** - HTTP client for API callsExtract data from a single PDF statement..\.venv\Scripts\Activate.ps1- FastAPI - Modern Python web framework
+
+- **React** - UI library
+
+
+
+### Deployment
+
+- **Render** - Backend hosting (Python)**Request:**- PyMuPDF, pdfplumber - PDF parsing
+
+- **Vercel** - Frontend hosting (Next.js)
+
+- **GitHub** - Version control and CI/CD```bash
+
+
+
+---curl -X POST https://sure-financials-backend.onrender.com/extract \# Install dependencies- Pytesseract - OCR for scanned PDFs
+
+
+
+## 🔍 How It Works  -F "file=@statement.pdf"
+
+
+
+1. **PDF Upload**: User uploads credit card statement (PDF)```pip install -r requirements.txt- Pandas - Data processing
+
+2. **Bank Detection**: System analyzes text to identify bank
+
+3. **Parser Selection**: Routes to bank-specific parser (6 available)
+
+4. **Data Extraction**: Regex patterns extract key fields
+
+5. **Validation**: Cleans amounts, validates dates (14 formats)**Response:**- Supabase - Cloud storage (optional)
+
+6. **Confidence Scoring**: Calculates accuracy based on fields found
+
+7. **Response**: Returns JSON with extracted data + confidence```json
+
+8. **Excel Export**: Optional XLSX download
+
+{# Configure environment (optional for OCR)
+
+### Extraction Confidence Levels
+
+  "bank": "HDFC Bank",
+
+- **95-100%**: All fields extracted successfully
+
+- **75-94%**: Most fields found, minor gaps  "card_last_4": "5692",copy .env.example .env**Frontend**
+
+- **50-74%**: Partial extraction, manual review suggested
+
+- **0-49%**: Low confidence, check original PDF  "billing_cycle": "09 Sep 2025 - 09 Oct 2025",
+
+
+
+---  "payment_due_date": "2025-10-27",# Edit .env and set TESSERACT_CMD path if using OCR- Next.js 14 - React framework
+
+
+
+## 🔧 Development  "total_due": "₹61.00",
+
+
+
+### Adding a New Bank Parser  "confidence": 1.0,```- Tailwind CSS - Utility-first styling
+
+
+
+1. **Create Parser File**: `backend/parsers/newbank_parser.py`  "summary": "Your HDFC Bank credit card statement shows a total due of ₹61.00..."
+
+
+
+```python}- Axios - HTTP client
+
+import re
+
+from utils.data_formatter import clean_amount, clean_date```
+
+
+
+class NewBankParser:### 3. Setup Frontend- Modern responsive design
+
+    def extract(self, text: str) -> dict:
+
+        return {**Excel Export:**
+
+            'card_last_4': self._extract_card(text),
+
+            'billing_cycle': self._extract_cycle(text),```bash
+
+            'payment_due_date': self._extract_due_date(text),
+
+            'total_due': self._extract_total(text)curl -X POST https://sure-financials-backend.onrender.com/extract \
+
+        }
+
+      -F "file=@statement.pdf" \```powershell## 📸 Screenshots
+
+    def _extract_card(self, text: str) -> str:
+
+        match = re.search(r'Card No\.\s*[X\s]*(\d{4})', text)  -F "as_excel=true" \
+
+        return match.group(1) if match else None
+
+      -o extraction.xlsx# Navigate to frontend
+
+    # Implement other extraction methods...
 
 ``````
 
 
 
-**Response:**## 🧪 API Endpoints
-
-```json
-
-{### 4. Run Application
-
-  "job_id": "job_1729689600",
-
-  "files": ["hdfc_statement.pdf", "axis_statement.pdf"]### `POST /extract`
-
-}
-
-```**Terminal 1 - Backend:**Upload PDF and get extracted JSON
+2. **Register in Universal Parser**: `backend/universal_parser.py`cd ..\frontend- **Landing Page**: Gradient hero with feature cards
 
 
 
----```powershell
+```python### `POST /upload`
+
+from parsers.newbank_parser import NewBankParser
+
+Upload multiple PDFs (supports ZIP files).- **Upload Page**: Drag-and-drop with live preview
+
+# Add to detect_bank method
+
+if 'NEW BANK' in text_upper:
+
+    return 'New Bank'
+
+**Request:**# Install dependencies- **Results View**: JSON/Table toggle with confidence meter
+
+# Add to parser_map
+
+'New Bank': NewBankParser()```bash
+
+```
+
+curl -X POST https://sure-financials-backend.onrender.com/upload \npm install- **Responsive**: Works on all devices
+
+3. **Test with real statements** and update README
+
+  -F "file=@statements.zip"
+
+---
+
+``````
+
+## 📁 Project Files
 
 
 
-## 🎨 Frontend Featurescd D:\sure_financial\backend### `POST /upload`
+### Core Files
+
+- `backend/main.py` - FastAPI application entry point**Response:**## 🧪 API Endpoints
+
+- `backend/universal_parser.py` - Bank detection and parser routing
+
+- `frontend/pages/upload.js` - Main upload interface```json
+
+- `requirements.txt` - Python dependencies
+
+- `package.json` - Node dependencies{### 4. Run Application
 
 
 
-### Landing Page (`/`).\.venv\Scripts\Activate.ps1Batch upload (ZIP support)
+### Documentation  "job_id": "job_1729689600",
 
-- Overview of features and supported banks
+- `README.md` - This file
 
-- Gradient hero section with call-to-actionpython -m uvicorn main:app --reload --host 0.0.0.0 --port 8000
+- `DEPLOYMENT.md` - Detailed deployment guide  "files": ["hdfc_statement.pdf", "axis_statement.pdf"]### `POST /extract`
 
-- Feature cards with icons
+- `DEPLOY_COMMANDS.md` - Quick reference commands
 
-- Responsive design```### `GET /history`
+- `READY_TO_DEPLOY.md` - Pre-deployment checklist}
 
 
 
-### Upload Page (`/upload`)Retrieve extraction history (requires Supabase)
+### Configuration```**Terminal 1 - Backend:**Upload PDF and get extracted JSON
 
-- **Drag & Drop**: Easy file upload with visual feedback
+- `.gitignore` - Excludes venv, node_modules, .env, uploads
+
+- `.env.example` - Example environment variables
+
+- `backend/.env` - Backend configuration (optional)
+
+- `frontend/.env.local` - Frontend configuration (local)---```powershell
+
+
+
+---
+
+
+
+## 🔍 Troubleshooting## 🎨 Frontend Featurescd D:\sure_financial\backend### `POST /upload`
+
+
+
+### Backend Issues
+
+
+
+**Port 8000 already in use:**### Landing Page (`/`).\.venv\Scripts\Activate.ps1Batch upload (ZIP support)
+
+```powershell
+
+netstat -ano | findstr :8000- Overview of features and supported banks
+
+taskkill /PID <PID> /F
+
+```- Gradient hero section with call-to-actionpython -m uvicorn main:app --reload --host 0.0.0.0 --port 8000
+
+
+
+**Module not found:**- Feature cards with icons
+
+```powershell
+
+cd backend- Responsive design```### `GET /history`
+
+pip install -r requirements.txt --force-reinstall
+
+```
+
+
+
+**Render deployment fails:**### Upload Page (`/upload`)Retrieve extraction history (requires Supabase)
+
+- Check build logs for errors
+
+- Verify `requirements.txt` syntax- **Drag & Drop**: Easy file upload with visual feedback
+
+- Ensure Python 3.10+ compatibility
 
 - **JSON Viewer**: Copy extracted data to clipboard**Terminal 2 - Frontend:**
 
+### Frontend Issues
+
 - **Table View**: Formatted display with confidence bars
 
-- **Excel Download**: Export results instantly```powershellSee `backend/README.md` for full API docs.
+**API connection fails:**
 
-- **Real-time Processing**: Live progress indicators
+- Verify `NEXT_PUBLIC_API_URL` is set in Vercel- **Excel Download**: Export results instantly```powershellSee `backend/README.md` for full API docs.
 
-- **Error Handling**: Clear error messages with suggestionscd D:\sure_financial\frontend
+- Check CORS configuration in `backend/main.py`
+
+- Inspect Network tab in browser console (F12)- **Real-time Processing**: Live progress indicators
 
 
+
+**Build fails on Vercel:**- **Error Handling**: Clear error messages with suggestionscd D:\sure_financial\frontend
+
+- Check `package.json` for missing dependencies
+
+- Verify Node.js version compatibility (18+)
+
+- Review build logs for specific errors
 
 ---npm run dev## 🔧 Configuration
 
-
-
-## 🔧 Configuration```
-
-
-
-### Backend Environment Variables**Backend** (`backend/.env`):
+### Low Confidence Scores
 
 
 
-Optional - create `backend/.env`:**Open Browser:**```env
+- **Check PDF Quality**: Ensure text is readable and not password-protected
+
+- **Use OCR**: Install Tesseract for scanned documents## 🔧 Configuration```
+
+- **Manual Review**: Compare extracted data with original PDF
+
+- **Update Parsers**: Enhance regex patterns for specific bank formats
 
 
 
-```bash- Frontend: http://localhost:3000TESSERACT_CMD=C:\Program Files\Tesseract-OCR\tesseract.exe
-
-# Tesseract OCR path (optional, for scanned PDFs)
-
-TESSERACT_CMD=C:\Program Files\Tesseract-OCR\tesseract.exe- Backend API Docs: http://localhost:8000/docsSUPABASE_URL=https://your-project.supabase.co
-
-```
-
-SUPABASE_KEY=your-key
-
-### Frontend Environment Variables
-
----```
-
-**Local Development** (`frontend/.env.local`):
-
-```bash
-
-NEXT_PUBLIC_API_URL=http://localhost:8000
-
-```## 📋 API Endpoints**Frontend**: Update API URL in `pages/upload.js`
+---### Backend Environment Variables**Backend** (`backend/.env`):
 
 
 
-**Production** (Set in Vercel):
+## 📄 License
 
-```bash
 
-NEXT_PUBLIC_API_URL=https://sure-financials-backend.onrender.com### `POST /upload`## 🚀 Deployment
 
-```
+MIT License - feel free to use for personal or commercial projects.Optional - create `backend/.env`:**Open Browser:**```env
 
-Upload multiple PDFs or ZIP file for batch processing.
+
+
+---
+
+
+
+## 🤝 Contributing```bash- Frontend: http://localhost:3000TESSERACT_CMD=C:\Program Files\Tesseract-OCR\tesseract.exe
+
+
+
+Contributions welcome!# Tesseract OCR path (optional, for scanned PDFs)
+
+
+
+1. Fork the repositoryTESSERACT_CMD=C:\Program Files\Tesseract-OCR\tesseract.exe- Backend API Docs: http://localhost:8000/docsSUPABASE_URL=https://your-project.supabase.co
+
+2. Create feature branch: `git checkout -b feature/new-parser`
+
+3. Commit changes: `git commit -m 'Add parser for XYZ Bank'````
+
+4. Push to branch: `git push origin feature/new-parser`
+
+5. Open Pull RequestSUPABASE_KEY=your-key
+
+
+
+---### Frontend Environment Variables
+
+
+
+## 📞 Support---```
+
+
+
+**Having issues?****Local Development** (`frontend/.env.local`):
+
+
+
+1. Check [Troubleshooting](#-troubleshooting) section above```bash
+
+2. Review backend logs in Render dashboard
+
+3. Check frontend console (F12) in browserNEXT_PUBLIC_API_URL=http://localhost:8000
+
+4. Read [DEPLOYMENT.md](DEPLOYMENT.md) for deployment issues
+
+5. Create an issue on GitHub```## 📋 API Endpoints**Frontend**: Update API URL in `pages/upload.js`
+
+
+
+---
+
+
+
+## 🎯 Future Enhancements**Production** (Set in Vercel):
+
+
+
+- [ ] Transaction table extraction```bash
+
+- [ ] Month-over-month spending analysis
+
+- [ ] Email integration (Gmail API)NEXT_PUBLIC_API_URL=https://sure-financials-backend.onrender.com### `POST /upload`## 🚀 Deployment
+
+- [ ] Mobile app (React Native)
+
+- [ ] Multi-language support```
+
+- [ ] More banks (Yes Bank, IndusInd, etc.)
+
+- [ ] PDF password unlockUpload multiple PDFs or ZIP file for batch processing.
+
+- [ ] Batch processing improvements
+
+---
 
 ---
 
 - **Backend**: Render, Railway, Fly.io
 
+## 🙏 Acknowledgments
+
 ## 🚢 Deployment
 
-**Request:**- **Frontend**: Vercel, Netlify
+Built with ❤️ using:
 
-### Backend (Render)
+- [FastAPI](https://fastapi.tiangolo.com/) - Modern Python web framework**Request:**- **Frontend**: Vercel, Netlify
 
-```bash- **Database**: Supabase Cloud
+- [Next.js](https://nextjs.org/) - React framework for production
+
+- [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS### Backend (Render)
+
+- [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) - OCR engine
+
+- [Render](https://render.com/) - Backend hosting```bash- **Database**: Supabase Cloud
+
+- [Vercel](https://vercel.com/) - Frontend hosting
 
 1. Go to [Render Dashboard](https://dashboard.render.com/)
 
+---
+
 2. New → Web Service → Connect GitHub repocurl -X POST http://localhost:8000/upload \
+
+**🚀 Built for financial automation and AI-powered data extraction**
 
 3. Configure:
 
-   - **Root Directory**: `backend`  -F "file=@statements.zip"See deployment guides in respective README files.
+**GitHub**: https://github.com/Shobit04/sure_financial  
 
-   - **Build Command**: `pip install -r requirements.txt`
+**Live Demo**: https://sure-financials.vercel.app/   - **Root Directory**: `backend`  -F "file=@statements.zip"See deployment guides in respective README files.
 
-   - **Start Command**: `uvicorn main:app --host 0.0.0.0 --port $PORT````
+
+
+---   - **Build Command**: `pip install -r requirements.txt`
+
+
+
+*Last Updated: October 2025*   - **Start Command**: `uvicorn main:app --host 0.0.0.0 --port $PORT````
+
 
 4. Deploy
 
