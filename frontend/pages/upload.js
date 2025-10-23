@@ -13,6 +13,9 @@ export default function Upload() {
   const [error, setError] = useState(null)
   const [viewMode, setViewMode] = useState('json') // 'json' or 'table'
 
+  // Use environment variable for API URL, fallback to localhost for development
+  const API_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000'
+
   const handleFile = async (file) => {
     setLoading(true)
     setError(null)
@@ -23,7 +26,7 @@ export default function Upload() {
     form.append('as_excel', 'false')
     
     try {
-      const resp = await axios.post('http://localhost:8000/extract', form, {
+      const resp = await axios.post(`${API_URL}/extract`, form, {
         headers: { 'Content-Type': 'multipart/form-data' }
       })
       setResult(resp.data)
@@ -45,7 +48,7 @@ export default function Upload() {
       form.append('file', file)
       form.append('as_excel', 'true')
       
-      const resp = await axios.post('http://localhost:8000/extract', form, {
+      const resp = await axios.post(`${API_URL}/extract`, form, {
         headers: { 'Content-Type': 'multipart/form-data' },
         responseType: 'blob'
       })
